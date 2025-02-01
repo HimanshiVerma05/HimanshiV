@@ -4,7 +4,7 @@
 
 📈 Data Scientist <br />
 
-💻 Turning ideas into digital reality. <br />
+💻 Developing around data . <br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70013&background=FFFFFFF5&multiline=true&width=435&lines=Hey+Fellas)](https://git.io/typing-svg)
 
